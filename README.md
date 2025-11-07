@@ -280,7 +280,7 @@ If TEMPEST-SQL discovers critical vulnerabilities:
 - **Commercial Use**: Contact for licensing agreement
 - **Enterprise Security**: Custom licensing available
 
-**Contact**: https://github.com/SimoesCTT/Documentation
+**Contact**: https://github.com/SimoesCTT/Tempest-SQL
 
 ---
 
